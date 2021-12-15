@@ -8,6 +8,7 @@ https://drive.google.com/drive/folders/1qXOJSQSNyZZmKhLUlYcJROEte6FRXFN-?usp=sha
 ---------------------------------------------------------------------------------------------------------------
 
 
+
 Seção #1
 
 Descrição: 
@@ -15,6 +16,7 @@ Descrição:
 Menu com imagem com as iniciais do meu nome e sobrenome, seções para Projetos, Habilidades e Formação, com algumas redes sociais. Seguindo, uma breve introdução de quem sou com imagem, e 1 botão que direciona ao topo da página.
 
 ![Printscreen - Introdução](https://user-images.githubusercontent.com/87778480/146100810-514a8250-7c66-44fe-94b5-33904641550e.png)
+
 
 
 
@@ -28,6 +30,7 @@ Divisão para introduzir meu portfólio, onde está projetos de programação, f
 
 
 
+
 Seção #3
 
 Descrição: 
@@ -35,6 +38,7 @@ Descrição:
 Início da seção de habilidades, introduzindo todas as habilidades que foram trabalhadas durante o projeto do Kick com a quantidade de tempo de experiência com cada uma delas, e a última seção de formação citando meu curso de inglês em um card, um lado dando informações sobre o curso e a nota, e o outro comprovando o que eu havia dito com a imagem do resultado. Finalizando com o rodapé com direito autoral e identificação.
 
 ![Printscreen - Final](https://user-images.githubusercontent.com/87778480/144910756-776ac291-d395-42ad-8835-1945295ea597.png)
+
 
 
 
