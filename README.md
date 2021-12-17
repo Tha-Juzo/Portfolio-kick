@@ -3,7 +3,7 @@ Repositório destinado ao site/portfólio desenvolvido pela plataforma Wordpress
 
 Este é o link para download do arquivo de exportação para ser utilizado no plugin all-in-one WP migration:
 
-https://drive.google.com/drive/folders/1qXOJSQSNyZZmKhLUlYcJROEte6FRXFN-?usp=sharing
+https://drive.google.com/file/d/13oitCrfWJFSBPvDGILlL89R6k6F9xMuq/view?usp=sharing
 
 ---------------------------------------------------------------------------------------------------------------
 
