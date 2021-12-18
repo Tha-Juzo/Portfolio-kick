@@ -1,11 +1,11 @@
 # Portfolio-kick
 Repositório destinado ao site/portfólio desenvolvido pela plataforma Wordpress durante as aulas do curso Kick
 
-Este é o link para download do arquivo de exportação para ser utilizado no plugin all-in-one WP migration:
+Link do Site: http://thauany-juzo.soukick.ml/
 
-https://drive.google.com/file/d/13oitCrfWJFSBPvDGILlL89R6k6F9xMuq/view?usp=sharing
+Este é o link para download do arquivo de exportação para ser utilizado no plugin all-in-one WP migration: https://drive.google.com/file/d/13oitCrfWJFSBPvDGILlL89R6k6F9xMuq/view?usp=sharing
 
----------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -49,3 +49,11 @@ Descrição:
 Página com o formulário de contato com menu com imagem com as iniciais do meu nome e sobrenome, seções para Projetos, Habilidades e Formação, com algumas redes sociais ligadas a página 'Home'. Formulário contendo seções para 'Nome Completo'; 'Telefone'; 'Gênero'; 'Gmail'; 'Assunto' e 'Mensagem'. Finalizando com o rodapé com direito autoral e identificação.
 
 ![Printscreen - Contato](https://user-images.githubusercontent.com/87778480/146102294-304e57b9-e970-4a36-bd58-620a207b9a0f.png)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ # Páginas em PDF
+ 
+ Home: [Thauany Juzo - Home.pdf](https://github.com/Tha-Juzo/Portfolio-kick/files/7739862/Thauany.Juzo.-.Home.pdf)
+ 
+ Contato: [Contato – Thauany Juzo.pdf](https://github.com/Tha-Juzo/Portfolio-kick/files/7739863/Contato.Thauany.Juzo.pdf)
+
