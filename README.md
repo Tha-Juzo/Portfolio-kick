@@ -51,9 +51,6 @@ Página com o formulário de contato com menu com imagem com as iniciais do meu 
 ![Printscreen - Contato](https://user-images.githubusercontent.com/87778480/146102294-304e57b9-e970-4a36-bd58-620a207b9a0f.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- # Páginas em PDF
+ # Página em PDF
  
- Home: [Thauany Juzo - Home.pdf](https://github.com/Tha-Juzo/Portfolio-kick/files/7739862/Thauany.Juzo.-.Home.pdf)
- 
- Contato: [Contato – Thauany Juzo.pdf](https://github.com/Tha-Juzo/Portfolio-kick/files/7739863/Contato.Thauany.Juzo.pdf)
-
+[Thauany-Juzo.pdf](https://github.com/Tha-Juzo/Portfolio-kick/files/7741206/Thauany-Juzo.pdf)
